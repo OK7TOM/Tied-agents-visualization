@@ -1,5 +1,6 @@
 # Tied-agents-visualization
 Geographical visualization of Tied agents according to the Capital Market Undertakings Act in the Czech Republic
+![Tied-agents-visualization](samples/DensityHeatMap.gif)
 
 ### What's the problem
 It is quite difficult to present the layout of the distribution network of Tied agents. Mostly it is processed by a table or column chart aggregated by region where important informaton are missed either in the "big picture" or detail
